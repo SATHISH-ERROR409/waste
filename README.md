@@ -1,0 +1,2 @@
+# waste
+smart waste monitoring
