@@ -1,2 +1,2 @@
-# waste
-smart waste monitoring
+# smart_waste_monitoring
+Your IoT-based Smart Waste Monitoring System is designed to efficiently manage waste by monitoring bin levels and detecting harmful materials. It features separate bins for dry and wet waste, which automatically open when waste is detected. The system uses sensors to measure bin levels and detect gas concentrations, ensuring safety and timely waste disposal. Data is displayed on ThingSpeak and integrated into your website for real-time monitoring.
